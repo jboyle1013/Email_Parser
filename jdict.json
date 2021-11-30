@@ -1,0 +1,62 @@
+{
+    "Date": [
+        "Fri, 14 Aug 2020 10:05:19 -0500"
+    ],
+    "Recieved": [
+        "from mail64.indeed.com (mail64.indeed.com [198.58.75.64])\t(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))\t(No client certificate requested)\tby uaa.hume.vt.edu (Postfix) with ESMTPS id 7235F260F2A\tfor <jamesbokeefe@uaa.hume.vt.edu>; Fri, 14 Aug 2020 11:06:00 -0400 (EDT)",
+        "from post.post-mediumpriority.ea9k4zigrh9auc0dmh2uux4zexl5ma5ap44nn6 (aus-smtp3.indeed.net [10.1.3.212])\tby mail64.indeed.com (Postfix) with ESMTP id 4BSmvg46q9z7VCxf\tfor <jamesbokeefe@uaa.hume.vt.edu>; Fri, 14 Aug 2020 10:05:19 -0500 (CDT)"
+    ],
+    "Subject": [
+        "Review your employer today"
+    ],
+    "From": [
+        "Indeed <no-reply@indeed.com>"
+    ],
+    "To": [
+        "jamesbokeefe@uaa.hume.vt.edu"
+    ],
+    "Content-Type": [
+        "multipart/alternative; boundary=\"----=_Part_37971041_1498461985.1597417519577\""
+    ],
+    "DKIM-signature": [
+        "v=1; a=rsa-sha256; c=relaxed/simple; d=indeed.com;\ts=default; t=1597417519;\tbh=l6Skp38wOE4g8OQGI/qjMldBsB3vGfk1adpmVPb6vxY=;\th=From:Reply-To:To:Subject:Date;\tb=Dx4Rv6pYNvi1ehByb2Ria7tLasZOvJwAnv59/ehxHR5cTJBFUZI2AghLdIuueePZO\t YU1d6LlPR3UdI7y0J7YsRoLN6lDq0e46O8VrJ9/gygpsJI0ptuydhCK/QENQgU2UUe\t GW8yEoNqGomWfw5Tc9O2f+p47Z8gcFREM+r/0l/s="
+    ],
+    "Message-ID": [
+        "1efmo1uduq854802@indeed.com"
+    ],
+    "Mime-Version": [
+        "1.0"
+    ],
+    "All Others": {
+        "X-Mozilla-Status": [
+            "0000"
+        ],
+        "X-Mozilla-Status2": [
+            "00000000"
+        ],
+        "Return-Path": [
+            "<no-reply@indeed.com>"
+        ],
+        "X-Original-To": [
+            "jamesbokeefe@uaa.hume.vt.edu"
+        ],
+        "Delivered-To": [
+            "uaamaster@uaa.hume.vt.edu"
+        ],
+        "Reply-To": [
+            "Indeed <no-reply@indeed.com>"
+        ],
+        "X-Indeed-FBL": [
+            ":3:370c79d0ae0755589c853f51babab99ed8f98851a078e87acd93c45d5d0fb41d"
+        ],
+        "X-Indeed-Client-App": [
+            "RavenEmailDaemon"
+        ],
+        "X-Indeed-Content-Type": [
+            "ravenEmail"
+        ],
+        "X-Indeed-TK": [
+            "1efmo1uduq854802"
+        ]
+    }
+}
